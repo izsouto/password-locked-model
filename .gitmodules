@@ -1,0 +1,3 @@
+[submodule "sandbagging"]
+	path = sandbagging
+	url = https://github.com/FabienRoger/sandbagging.git
